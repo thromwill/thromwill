@@ -3,6 +3,11 @@
 **`Software Engineering Student`**
 ---
 
+<p align="left">
+      <a href="https://github.com/thromwill?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/thromwill?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+   
 ### Languages and Tools
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
