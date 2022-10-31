@@ -1,4 +1,4 @@
-# 👤 Will Throm
+# Will Throm
 
 **`Software Engineering Student`**
 ---
