@@ -1,6 +1,6 @@
 # Will Throm
 
-**`Software Engineering Student`**
+**`Digital Co-op at Ameren | Incoming TIP Intern at Capital One | CS @ University of Missouri`**
 ---
 
 <p align="left">
