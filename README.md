@@ -1,6 +1,6 @@
 # Will Throm
 
-**`Digital Co-op at Ameren | CS @ University of Missouri`**
+*`Digital Co-op at Ameren | CS @ University of Missouri`*
 ---
 
 <p align="left">
