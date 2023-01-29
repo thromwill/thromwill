@@ -1,6 +1,6 @@
 # Will Throm
 
-**`Digital Co-op at Ameren | CS @ University of Missouri`**
+**`SWE Intern at Capital One | CS @ University of Missouri`**
 
 
 ---
