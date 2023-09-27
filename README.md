@@ -1,6 +1,6 @@
 # Will Throm
 
-**`SWE Intern at Capital One | CS @ University of Missouri`**
+**`CS @ University of Missouri`**
 
 
 ---
